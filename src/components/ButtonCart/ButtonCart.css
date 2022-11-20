@@ -1,0 +1,14 @@
+.modal-header{
+    background-color: #252525;
+    color: white;
+}
+
+.btn-close{
+  background-color: whitesmoke;
+
+}
+
+.btn.btn-primary{
+    background-color: #2ECC71;
+    border: none;
+}

@@ -1,0 +1,16 @@
+/* footer section*/
+.footer_section {
+    background-color: #ffffff;
+    padding: 20px 15px;
+  }
+  
+  .footer_section p {
+    margin: 0;
+    text-align: center;
+    color: #222222;
+  }
+  
+  .footer_section a {
+    color: #222222;
+  }
+  
